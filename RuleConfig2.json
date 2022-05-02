@@ -219,7 +219,7 @@
       "RuleId": "ST-NMG-002",
       "IsEnabled": true,
       "DefaultIsEnabled": true,
-      "DefaultErrorLevel": "Warning",
+      "DefaultErrorLevel": "Error",
       "Parameters": [
         {
           "Name": "InRegex",
