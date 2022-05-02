@@ -234,7 +234,7 @@
           "Value": "^io_[a-z]+_[a-zA-Z]+"
         }
       ],
-      "ErrorLevel": null
+      "ErrorLevel": "Error",
     },
 	{
       "RuleId": "ST-NMG-004",
